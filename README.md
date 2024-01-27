@@ -1,4 +1,4 @@
-![](https://github.com/topjohnwu/Magisk/tree/master/docs/images/logo.png)
+![](https://raw.githubusercontent.com/topjohnwu/Magisk/master/docs/images/logo.png)
 
 [![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=totalString&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftopjohnwu%2Fmagisk-files%2Fcount%2Fcount.json&cacheSeconds=1800)](https://raw.githubusercontent.com/topjohnwu/magisk-files/count/count.json)
 
