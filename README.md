@@ -18,7 +18,7 @@ Some highlight features:
 
 [Github](https://github.com/lZiMUl/Magisk/) is the only source where you can get official Magisk information and downloads.
 
-[![](https://img.shields.io/badge/Magisk-v26.4-blue)](https://github.com/lZiMUl/Magisk/)
+[![](https://img.shields.io/badge/Magisk-v1.0-blue)](https://github.com/lZiMUl/Magisk/releases)
 
 ## Useful Links
 
